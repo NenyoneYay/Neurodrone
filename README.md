@@ -3,4 +3,4 @@ ECEN361 project repository
 
 
 I can edit it! -Michael Loftus
-Me too! - Jordan Cordray
+I can edit it! -Owen Cluff
