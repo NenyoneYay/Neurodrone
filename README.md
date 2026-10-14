@@ -10,3 +10,4 @@ I can edit it! -Jordan Cordray
 
 Meeting notes page: https://docs.google.com/document/d/1fzM5YCtXTmH-5e5lLfrl6AdeVp9-4hZOVdxYehnHRSU/edit?tab=t.0
 
+mindwave mobile 2 bluetooth address: 00:81:F9:29:D1:E4
